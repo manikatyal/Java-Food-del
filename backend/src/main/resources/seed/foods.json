@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Veg Salad",
+    "description": "Crisp greens, fresh veggies, and a light dressing for a refreshing bite. \r\n",
+    "price": 18,
+    "category": "Salad",
+    "image": "1722594190939food_2.png"
+  },
+  {
+    "name": "Clover Salad",
+    "description": "A burst of spring flavors with tender clover leaves and blossoms\r\n",
+    "price": 16,
+    "category": "Salad",
+    "image": "1722594242481food_3.png"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "Flaky chicken mixed with mayo, celery, and herbs for a classic lunchtime treat.",
+    "price": 24,
+    "category": "Salad",
+    "image": "1722594276450food_4.png"
+  },
+  {
+    "name": "Lasagana Rolls",
+    "description": "Layered lasagna goodness rolled up for bite-sized comfort.",
+    "price": 14,
+    "category": "Rolls",
+    "image": "1722594325933food_5.png"
+  },
+  {
+    "name": "Peri Peri Rolls",
+    "description": "Spicy, tangy chicken wrapped in a soft roll for a flavorful on-the-go snack.",
+    "price": 12,
+    "category": "Rolls",
+    "image": "1722594368037food_6.png"
+  },
+  {
+    "name": "Chicken Roll",
+    "description": "Tender chicken, fresh veggies, and flavorful sauces wrapped in a soft roll.",
+    "price": 20,
+    "category": "Rolls",
+    "image": "1722594414295food_7.png"
+  },
+  {
+    "name": "Vegie Roll",
+    "description": "Fresh veggies and flavorful sauces wrapped in a soft, satisfying roll.",
+    "price": 15,
+    "category": "Rolls",
+    "image": "1722594449971food_8.png"
+  },
+  {
+    "name": "Ripple Ice Cream",
+    "description": "Creamy ice cream with swirls of fruity goodness.",
+    "price": 14,
+    "category": "Deserts",
+    "image": "1722594513921food_9.png"
+  },
+  {
+    "name": "Fruit Ice Cream",
+    "description": "Pure fruit flavor in every creamy spoonful.",
+    "price": 22,
+    "category": "Deserts",
+    "image": "1722594558905food_10.png"
+  },
+  {
+    "name": "Jar Ice Cream",
+    "description": "Homemade goodness in a jar: creamy ice cream, ready to indulge.",
+    "price": 10,
+    "category": "Deserts",
+    "image": "1722594597951food_11.png"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "description": "Classic creamy vanilla ice cream, the perfect base for any dessert",
+    "price": 12,
+    "category": "Deserts",
+    "image": "1722594639153food_12.png"
+  },
+  {
+    "name": "Chicken Sandwich",
+    "description": "Crispy chicken on a soft bun with your favorite toppings.",
+    "price": 12,
+    "category": "Sandwich",
+    "image": "1722594688799food_13.png"
+  },
+  {
+    "name": "Vegan Sandwich",
+    "description": "Plant-based goodness packed between two slices of bread",
+    "price": 18,
+    "category": "Sandwich",
+    "image": "1722594730733food_14.png"
+  },
+  {
+    "name": "Grilled Sandwich",
+    "description": "Melty cheese and crispy bread, grilled to perfection",
+    "price": 16,
+    "category": "Sandwich",
+    "image": "1722594772368food_15.png"
+  },
+  {
+    "name": "Bread Sandwich",
+    "description": "Classic simplicity: bread with your favorite fillings",
+    "price": 24,
+    "category": "Sandwich",
+    "image": "1722594812345food_16.png"
+  },
+  {
+    "name": "Cup Cake",
+    "description": "Mini cake perfection with frosting galore",
+    "price": 14,
+    "category": "Cake",
+    "image": "1722594857653food_17.png"
+  },
+  {
+    "name": "Vegan Cake",
+    "description": "Indulgent sweetness without the dairy, a plant-based delight\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "price": 12,
+    "category": "Cake",
+    "image": "1722594901434food_18.png"
+  },
+  {
+    "name": "Butterscotch Cake",
+    "description": "Rich, buttery cake with a hint of caramel sweetness",
+    "price": 20,
+    "category": "Cake",
+    "image": "1722594946749food_19.png"
+  },
+  {
+    "name": "Sliced Cake",
+    "description": "Perfect slices of cake goodness",
+    "price": 15,
+    "category": "Cake",
+    "image": "1722595012924food_20.png"
+  },
+  {
+    "name": "Garlic Mushroom",
+    "description": "Savory mushrooms sautéed to perfection with aromatic garlic",
+    "price": 14,
+    "category": "Pure Veg",
+    "image": "1722595063100food_21.png"
+  },
+  {
+    "name": "Fried Cauliflower",
+    "description": "Crispy cauliflower florets, golden and delicious",
+    "price": 22,
+    "category": "Pure Veg",
+    "image": "1722595127171food_22.png"
+  },
+  {
+    "name": "Mix Veg Pulao",
+    "description": "Aromatic rice cooked with a colorful medley of vegetables for a wholesome and flavorful mea",
+    "price": 10,
+    "category": "Pure Veg",
+    "image": "1722595183758food_23.png"
+  },
+  {
+    "name": "Rice Zuchinni",
+    "description": "Light and refreshing rice dish with tender zucchini for a healthy and flavorful meal",
+    "price": 12,
+    "category": "Pure Veg",
+    "image": "1722595240247food_24.png"
+  },
+  {
+    "name": "Cheese Pasta",
+    "description": "Creamy pasta bathed in a rich, cheesy sauce",
+    "price": 18,
+    "category": "Pasta",
+    "image": "1722595286122food_25.png"
+  },
+  {
+    "name": "Tomato Pasta",
+    "description": "Classic pasta tossed in a rich and flavorful tomato sauce",
+    "price": 18,
+    "category": "Pasta",
+    "image": "1722595333454food_26.png"
+  },
+  {
+    "name": "Creamy Pasta",
+    "description": "Rich and creamy pasta, perfect comfort food",
+    "price": 16,
+    "category": "Pasta",
+    "image": "1722595378980food_27.png"
+  },
+  {
+    "name": "Chicken Pasta",
+    "description": "Tender chicken and pasta in a creamy or savory sauce",
+    "price": 24,
+    "category": "Pasta",
+    "image": "1722595425060food_28.png"
+  },
+  {
+    "name": "Butter Noodles",
+    "description": "Rich, buttery noodles for a simple yet satisfying comfort food.",
+    "price": 14,
+    "category": "Noodles",
+    "image": "1722595468219food_29.png"
+  },
+  {
+    "name": "Veg Noodles",
+    "description": "Stir-fried noodles with colorful veggies for a quick and satisfying meal",
+    "price": 12,
+    "category": "Noodles",
+    "image": "1722595527629food_30.png"
+  },
+  {
+    "name": "Samen Noodles",
+    "description": "Thin, delicate noodles, perfect for light and refreshing dishes",
+    "price": 19,
+    "category": "Noodles",
+    "image": "1722595574149food_31.png"
+  },
+  {
+    "name": "Cooked Noodles",
+    "description": "Soft, boiled,cooked noodles ready to be transformed into your favorite dish",
+    "price": 15,
+    "category": "Noodles",
+    "image": "1722595635994food_32.png"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Highly nutricious ,ancient greek recipy",
+    "price": 12,
+    "category": "Salad",
+    "image": "1723037343506food_1.png"
+  }
+]
